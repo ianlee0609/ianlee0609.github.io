@@ -2,43 +2,43 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://example.com/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://ianlee0609.github.io/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="https://example.com/zh-cn/categories/"
+                        href="https://ianlee0609.github.io/zh-cn/categories/"
                         /><xhtml:link
                         rel="alternate"
                         hreflang="fr"
-                        href="https://example.com/fr/categories/"
+                        href="https://ianlee0609.github.io/fr/categories/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="https://example.com/categories/"
+                    href="https://ianlee0609.github.io/categories/"
                     /></url><url>
-            <loc>https://example.com/</loc><lastmod>2021-12-14T23:48:03&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://ianlee0609.github.io/</loc><lastmod>2021-12-14T23:48:03&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="https://example.com/zh-cn/"
+                        href="https://ianlee0609.github.io/zh-cn/"
                         /><xhtml:link
                         rel="alternate"
                         hreflang="fr"
-                        href="https://example.com/fr/"
+                        href="https://ianlee0609.github.io/fr/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="https://example.com/"
+                    href="https://ianlee0609.github.io/"
                     /></url><url>
-            <loc>https://example.com/posts/</loc><lastmod>2021-12-14T23:48:03&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://ianlee0609.github.io/posts/</loc><lastmod>2021-12-14T23:48:03&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://ianlee0609.github.io/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="https://example.com/zh-cn/tags/"
+                        href="https://ianlee0609.github.io/zh-cn/tags/"
                         /><xhtml:link
                         rel="alternate"
                         hreflang="fr"
-                        href="https://example.com/fr/tags/"
+                        href="https://ianlee0609.github.io/fr/tags/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="https://example.com/tags/"
+                    href="https://ianlee0609.github.io/tags/"
                     /></url></urlset>
