@@ -20,7 +20,7 @@ title = "IanLee"
 enableRobotsTXT = true
 # whether to use git commit log
 # 是否使用 git 信息
-enableGitInfo = true
+enableGitInfo = false
 # whether to use emoji code
 # 是否使用 emoji 代码
 enableEmoji = true
@@ -107,7 +107,7 @@ absoluteURL = false
     # title shown in home page (HTML format is supported)
     title = ""
     # subtitle shown in home page
-    subtitle = "A Clean, Elegant but Advanced Hugo Theme"
+    subtitle = "小小資料工程師"
     # whether to use typeit animation for subtitle
     typeit = true
     # whether to show social links
@@ -125,7 +125,7 @@ mobileMode = "auto"
 [params.header.title]
   # URL of the LOGO
   # LOGO 的 URL
-  logo = ""
+  logo = "/favicon.ico"
   # title name
   # 标题名称
   name = "Ian Lee's Blog"
@@ -157,7 +157,7 @@ mobileMode = "auto"
     author = true
     # site creation time
     # 网站创立年份
-    since = 2019
+    since = 2021
     # ICP info only in China (HTML format is supported)
     # ICP 备案信息，仅在中国使用 (支持 HTML 格式)
     icp = ""
@@ -288,24 +288,24 @@ mobileMode = "auto"
     # 文章页面的分享信息设置
     [params.page.share]
       enable = true
-      Twitter = true
-      Facebook = true
+      Twitter = false
+      Facebook = false
       Linkedin = false
       Whatsapp = false
       Pinterest = false
       Tumblr = false
-      HackerNews = true
+      HackerNews = false
       Reddit = false
       VK = false
       Buffer = false
       Xing = false
-      Line = true
+      Line = false
       Instapaper = false
       Pocket = false
       Digg = false
       Stumbleupon = false
       Flipboard = false
-      Weibo = true
+      Weibo = false
       Renren = false
       Myspace = false
       Blogger = false
@@ -416,7 +416,7 @@ mobileMode = "auto"
       # Publisher info
       # 出版者信息
       [params.page.seo.publisher]
-        name = "xxxx"
+        name = "ianlee0609"
         logoUrl = "/images/avatar.png"
 
   # TypeIt config
@@ -544,9 +544,9 @@ mobileMode = "auto"
 # Author config
 # 作者配置
 [author]
-  name = "xxxx"
-  email = ""
-  link = ""
+  name = "ianlee0609"
+  email = "ianlee0609@gmail.com"
+  link = "https://github.com/ianlee0609?tab=repositories"
 
 # Sitemap config
 # 网站地图配置

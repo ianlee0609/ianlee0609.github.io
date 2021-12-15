@@ -1,8 +1,8 @@
 ---
 title: "Hugo+Github Pages+Netlify搭建个人博客"
 subtitle: ""
-date: 2019-01-28T00:00:00.000Z
-lastmod: 2019-01-28T00:00:00.000Z
+date: 2021-12-12T00:00:00.000Z
+lastmod: 2021-12-12T00:00:00.000Z
 draft: false
 author: "Ian Lee"
 authorLink: ""
