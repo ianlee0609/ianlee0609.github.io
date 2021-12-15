@@ -1,9 +1,16 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>LoveIt</title>
+        <title>IanLee</title>
         <link>https://ianlee0609.github.io/</link>
-        <description>About LoveIt Theme</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+        <description>IanLee</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 28 Jan 2019 00:00:00 &#43;0000</lastBuildDate>
             <atom:link href="https://ianlee0609.github.io/index.xml" rel="self" type="application/rss+xml" />
-        </channel>
+        <item>
+    <title>Hugo&#43;Github Pages&#43;Netlify搭建个人博客</title>
+    <link>https://ianlee0609.github.io/demo/</link>
+    <pubDate>Mon, 28 Jan 2019 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://ianlee0609.github.io/demo/</guid>
+    <description><![CDATA[Build a personal blog through Hugo, Github Pages and Netlify.]]></description>
+</item></channel>
 </rss>
